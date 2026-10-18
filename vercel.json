@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "api/webhook.js": {
+      "maxDuration": 300,
+      "includeFiles": "{node_modules/@sparticuz/chromium/**,node_modules/@fontsource/inter/files/**,templates/**,lib/sample.json,assets/**}"
+    },
+    "api/debug.js": {
+      "maxDuration": 120,
+      "includeFiles": "{node_modules/@sparticuz/chromium/**,node_modules/@fontsource/inter/files/**,templates/**,lib/sample.json,assets/**}"
+    },
+    "api/preview.js": {
+      "maxDuration": 30,
+      "includeFiles": "{node_modules/@fontsource/inter/files/**,templates/**,lib/sample.json,assets/**}"
+    }
+  }
+}

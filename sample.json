@@ -1,0 +1,63 @@
+{
+ "files_total": 3,
+ "overview_note": "2-fayl 1-faylning orqa tomoni deb qabul qilindi (gap sahifa o‘rtasidan davom etadi). 3-fayl — alohida insho.",
+ "essays": [
+  {
+   "files": "1–2",
+   "title": "Kitob — bilim manbai",
+   "topic_summary": "O‘quvchi kitob o‘qish insonning dunyoqarashini kengaytirishi va nutqini boyitishini asoslashga harakat qiladi. Asosiy fikr aniq, ammo misollar yetarli emas.",
+   "level": "O'rta",
+   "score": 6.5,
+   "score_reason": "Fikr izchil, lekin imlo xatolari va takrorlar bahoni pasaytirdi.",
+   "rubric": {"grammar": 6, "vocabulary": 5.5, "structure": 7.5, "content": 7},
+   "strengths": [
+     {"point": "Kirish qismi mavzuni aniq ochib beradi.", "quote": "Kitob — insonning eng sodiq do‘sti va ustozi."},
+     {"point": "Xulosada asosiy g‘oya qaytarilgan.", "quote": "Shuning uchun har kuni kamida yarim soat kitob o‘qish kerak."},
+     {"point": "Shaxsiy misol insho jonliligini oshiradi.", "quote": "Men o‘qigan «O‘tkan kunlar» romani menga ko‘p narsani o‘rgatdi."}
+   ],
+   "mistakes": [
+     {"original": "kitob oqish", "corrected": "kitob o‘qish", "reason": "o‘ harfida apostrof (ʻ) tushib qolgan: o‘qish."},
+     {"original": "ko'p insonlar", "corrected": "ko‘plab odamlar", "reason": "«ko‘p» bilan ko‘plik qo‘shimchasi birga kelmaydi; «ko‘plab» yoki «ko‘p odam» ishlating."},
+     {"original": "maktabda o'qiyman", "corrected": "maktabda o‘qiyman", "reason": "Apostrof turi bir xil bo‘lsin (o‘, g‘)."},
+     {"original": "bilimni oshiradi", "corrected": "bilimini oshiradi", "reason": "Egalik qo‘shimchasi: kishining bilimini oshiradi."},
+     {"original": "Shuning uchun, kitob", "corrected": "Shuning uchun kitob", "reason": "Bog‘lovchi iboradan keyin vergul shart emas."}
+   ],
+   "vocabulary": [
+     {"weak": "yaxshi narsa", "better": "foydali tajriba", "example": "Kitob o‘qish foydali tajriba beradi."},
+     {"weak": "juda ko‘p", "better": "behisob", "example": "Kitoblarda behisob bilim bor."},
+     {"weak": "qiziq", "better": "ibratli", "example": "Bu ibratli hikoya menga ta’sir qildi."},
+     {"weak": "gapirish", "better": "fikr bildirish", "example": "Kitob fikr bildirishni o‘rgatadi."}
+   ],
+   "linking_phrases": ["masalan", "shu bilan birga", "bundan tashqari", "xulosa qilib aytganda"],
+   "structure": {
+     "intro": "Mavzu aniq, ammo tezis (asosiy da’vo) bir gapda ifodalanmagan.",
+     "body": "Ikkita dalil bor; ikkinchisiga misol kerak. Paragraflar orasida bog‘lovchi iboralar yetishmaydi.",
+     "conclusion": "G‘oya qaytarilgan, lekin yangi fikr yoki chaqiriq yo‘q.",
+     "notes": "Insho hajmi me’yorda. Har bir paragrafda bitta fikr bo‘lsin."
+   },
+   "next_steps": [
+     "Har bir dalilga bitta aniq misol qo‘shing (kitob nomi, voqea yoki shaxs).",
+     "Apostrofli harflarni (o‘, g‘) yozib bo‘lgach alohida tekshiring.",
+     "Kirish oxirida tezisni bir gapda yozing.",
+     "Har paragrafni bog‘lovchi ibora bilan boshlang."
+   ],
+   "improved_version": {"about": "Kirish paragrafi qayta yozildi:", "text": "Kitob — insonning eng sodiq do‘sti va ustozi. U bizga yangi dunyolarni ochadi, fikrlashni o‘rgatadi va nutqimizni boyitadi. Shu sababli kitob o‘qish har bir kishining kundalik odatiga aylanishi kerak."}
+  },
+  {
+   "files": "3",
+   "title": "Vatanga muhabbat",
+   "topic_summary": "Qisqa insho: Vatan tushunchasi oila va tabiat orqali izohlangan.",
+   "level": "Boshlang'ich",
+   "score": 4.5,
+   "score_reason": "Hajm kichik, fikrlar yuzaki.",
+   "rubric": {"grammar": 5, "vocabulary": 4, "structure": 4.5, "content": 4.5},
+   "strengths": [{"point": "Samimiy ohang.", "quote": "Vatan — bu mening onam."}],
+   "mistakes": [{"original": "Vatan sevish kerak", "corrected": "Vatanni sevish kerak", "reason": "Tushum kelishigi qo‘shimchasi (-ni)."}],
+   "vocabulary": [{"weak": "chiroyli", "better": "go‘zal", "example": "Go‘zal tabiat Vatanimizning timsoli."}],
+   "linking_phrases": ["birinchidan", "ikkinchidan"],
+   "structure": {"intro": "Kirish yo‘q.", "body": "Bitta fikr.", "conclusion": "Yo‘q.", "notes": ""},
+   "next_steps": ["Kirish va xulosa qo‘shing.", "Kamida ikkita dalil keltiring."],
+   "improved_version": {"about": "", "text": ""}
+  }
+ ]
+}
